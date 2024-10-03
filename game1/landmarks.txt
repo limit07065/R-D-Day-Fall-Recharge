@@ -1,5 +1,25 @@
+// limit to singapore only?
+Jewel
+Boat Quay / Clarke Quay
+Singapore Flyer
+Duxton
+Fort Canning
+Marina Bay Sands
+Gardens By The Bay
+Art Science Museum
+Esplanade
+The Hive, NTU
+NorthCoast
+Bugis
+CHIJMES
+Wings of Time
+Merlion Park
+Kampong Glam
+
+// include international landmarks
 Eiffel Tower
 Great Wall of China
 Pyramids of Giza
 Statue of Liberty
 Colosseum
+Louvre

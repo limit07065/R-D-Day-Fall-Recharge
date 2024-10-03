@@ -1,0 +1,66 @@
+/* Define a CSS variable for the orange color */
+:root {
+    --main-color: #FF6600FF;
+}
+
+/* General Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: var(--main-color);;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+    flex-grow: 1;
+}
+
+.button {
+    background-color: var(--main-color); /* Use the CSS variable for text color */
+    color: white;
+    border: none;
+    padding: 1rem;
+    font-size: 2.5rem;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s, color 0.3s;
+    flex-grow: 1;
+}
+
+.button:hover {
+    background-color: var(--main-color); /* Use the CSS variable for hover background color */
+    color: white;
+}
+
+.item-display {
+    background: var(--main-color);
+    flex-grow: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#item {
+    font-size: 8rem;
+    color: white;
+    padding: 1rem;
+    border: none;
+}
+
+.right-buttons {
+    display: flex;
+    gap: 20px;
+}

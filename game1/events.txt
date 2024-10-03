@@ -1,15 +1,31 @@
 Chinese New Year
 Hari Raya Aidilfitri
 Deepavali (Diwali)
-Vesak Day
 National Day
 Mid-Autumn Festival
-Thaipusam
-Singapore Food Festival
 Christmas
 Singapore Grand Prix (Formula 1)
 Hungry Ghost Festival
+Dragon Boat Festival
+Labour Day
+4th of July (US Independence Day)
+Easter
+11.11 (e-commerce)
+Black Friday
+Thanksgiving
+Valentines Day
+Teacher's Day
+Children's Day
+Mother's Day
+Father's Day
+Songkran
+Halloween
+New Year's Eve
+
+// to remove
+Thaipusam
+Vesak Day
+Singapore Food Festival
 Hari Raya Haji
 Singapore International Festival of Arts (SIFA)
 ZoukOut
-Dragon Boat Festival
